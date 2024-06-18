@@ -95,3 +95,7 @@ group by	[Time Period Num (YYYYMM)]
 ~~~~
 
 
+## Results Set
+
+![Days](https://github.com/DonChart/Clever_Little_CTE/assets/168656623/7d3a4316-d57b-4a5d-9ae3-3924b519f33e)
+
