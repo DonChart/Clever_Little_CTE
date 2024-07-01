@@ -3,7 +3,7 @@
 ## Project Overview
 
 Nothing overly fancy but a quick and clever way to determine a running YTD total of operational business days by business unit needed for calculations on back end use.
-Our origin tables were simple breaksouts of Month, Unit and Days operational - 
+Our origin tables were simple breakouts of Month, Unit and Days operational - 
 ----
 
 ## Data Acquisition
